@@ -1,3 +1,4 @@
+package nested_classes;
 public class Outer {
 
   private String greeting = "Hi";
