@@ -14,6 +14,7 @@ public void myDefaultMethod(){
 
 
 public void printtMyInterfaceDefaultMethod(){
+    // Calling the default implementation using MyInterface.super
     MyInterface.super.myDefaultMethod();
 }
 
